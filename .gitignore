@@ -143,4 +143,5 @@ dataset/task_ABC_D/*
 calvin_venv/*
 
 # Ignore datasets as downloaded according to instructions
-dataset/*
+# dataset/*
+dataset/calvin*
