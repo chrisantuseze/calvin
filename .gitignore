@@ -145,3 +145,4 @@ calvin_venv/*
 # Ignore datasets as downloaded according to instructions
 # dataset/*
 dataset/calvin*
+
